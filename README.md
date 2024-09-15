@@ -9,6 +9,7 @@
 **Duration:** July to September 2024
 
  ## Project: SOCIAL MEDIA SENTIMENT ANALYSIS
+![image](https://github.com/user-attachments/assets/7b3933b7-7f3b-40b9-b914-057e1e15bfae)
 
  ### Project Overview
 This project continues the exploration of predictive modeling with an emphasis on advanced feature engineering and model evaluation techniques. The tasks in this project involve:
